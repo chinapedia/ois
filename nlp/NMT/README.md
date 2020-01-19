@@ -6,3 +6,5 @@
 * 预处理
 * 模型训练
 * 针对中文的模型优化
+
+代码变更可以往本项目或者[chinapedia/fairseq](https://github.com/chinapedia/fairseq)提交PR，如果有疑问请创建Issue。
