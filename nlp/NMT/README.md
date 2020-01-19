@@ -1,6 +1,6 @@
 # NMT
 
-基于 [fairseq](https://github.com/pytorch/fairseq/tree/master/examples/translation) 训练一个英文到中文的翻译模型。
+基于 [tensor2tensor](https://github.com/tensorflow/tensor2tensor) 或者 [fairseq](https://github.com/pytorch/fairseq/tree/master/examples/translation) 训练一个英文到中文的翻译模型。
 
 任务细分：
 
