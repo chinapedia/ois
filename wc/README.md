@@ -15,3 +15,10 @@ Formated data is the blood for machine learning & web services
     * Label data with conditional filters: opinions label https://www.nytimes.com/section/opinion
     * Examples: Bing Twitter answer, [@HuazhongUST](https://twitter.com/huazhongust) & 
  [HUST.py](https://bitbucket.org/liruqi/social/src/master/tools/getAccountLocation/spider/HUST.py), [@TestFlightX](https://twitter.com/testflightx)
+
+
+# Homework
+Choose one task you interested:
+
+* Create a Telegram News bot for your University like https://t.me/s/HuazhongUST
+* Crawl socks5 proxies from websites like http://spys.one/en/socks-proxy-list/ , output proxies to a text file, one proxy per line.
