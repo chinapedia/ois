@@ -16,9 +16,12 @@ Formated data is the blood for machine learning & web services
     * Examples: Bing Twitter answer, [@HuazhongUST](https://twitter.com/huazhongust) & 
  [HUST.py](https://bitbucket.org/liruqi/social/src/master/tools/getAccountLocation/spider/HUST.py), [@TestFlightX](https://twitter.com/testflightx)
 
+# Crawling Mobile App
+* Crawl from App UI: XML, http://appium.io/
+* App network traffic & notification reverse engineering
 
 # Homework
 Choose one task you interested:
 
-* Create a Telegram News bot for your University like https://t.me/s/HuazhongUST
-* Crawl socks5 proxies from websites like http://spys.one/en/socks-proxy-list/ , output proxies to a text file, one proxy per line.
+* Create a Telegram News bot for your University like https://t.me/s/HuazhongUST. You could refer to [HUST.py](https://bitbucket.org/liruqi/social/src/master/tools/getAccountLocation/spider/HUST.py).
+* Crawl socks5 proxies from websites like http://spys.one/en/socks-proxy-list/ , output proxies to a text file, one proxy per line. You could refer to [this script](https://bitbucket.org/liruqi/mumevpn.com/src/master/socks_check.sh) .
