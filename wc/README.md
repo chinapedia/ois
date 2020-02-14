@@ -21,7 +21,7 @@ Formated data is the blood for machine learning & web services
 * App network traffic & notification reverse engineering
 
 # Homework
-Choose one task you interested:
+Choose one task you interested, and create a PR to bitbucket repo (recommend) or send your code to my email: ruqli@outlook.com.
 
-* Create a Telegram News bot for your University like https://t.me/s/HuazhongUST. You could refer to [HUST.py](https://bitbucket.org/liruqi/social/src/master/tools/getAccountLocation/spider/HUST.py).
-* Crawl socks5 proxies from websites like http://spys.one/en/socks-proxy-list/ , output proxies to a text file, one proxy per line. You could refer to [this script](https://bitbucket.org/liruqi/mumevpn.com/src/master/socks_check.sh) .
+* Create a Telegram News bot for your University like https://t.me/s/HuazhongUST, and create a [telegram bot](https://core.telegram.org/bots) to post news to group https://t.me/webspidering. You could refer to [HUST.py](https://bitbucket.org/liruqi/social/src/master/tools/getAccountLocation/spider/HUST.py).
+* Crawl socks5 proxies from websites like http://spys.one/en/socks-proxy-list/ , output proxies to a text file, one proxy per line. You could refer to [this script](https://bitbucket.org/liruqi/mumevpn.com/src/master/socks_check.sh).
