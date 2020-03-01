@@ -9,5 +9,6 @@ with open("theVerge.html") as ifile:
     print (spans[4].text)
     h2s = soup.find_all("h2")
     print (len(h2s))
-    print (sum([len(x.find_all("a", recursive=False)) for x in h2s]))
+    numbers = [len(x.find_all("a", recursive=False)) for x in h2s]
+    print (sum(numbers))
     

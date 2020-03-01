@@ -17,7 +17,7 @@ counter = 0
 print (Fibonacci(10), counter)
 
 counter = 0
-#print (Fibonacci(15), counter)
+print (Fibonacci(30), counter)
 
 def FibonacciNR(n):
     fib = [1,1]
@@ -31,7 +31,7 @@ print (FibonacciNR(101))
 
 import json
 
-with open("News_Category_Dataset_v2.json", "r") as ifile:
+with open("../News_Category_Dataset_v2.json", "r") as ifile:
     categorySet = set()
     lines = ifile.readlines()
     for line in lines:
