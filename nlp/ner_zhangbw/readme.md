@@ -25,6 +25,8 @@ seqeval==0.0.12
 
 | - data					   语料数据库（源：https://github.com/GeneZC/Chinese-NER, https://github.com/davidsbatista/NER-datasets）
 
+上传的时候一直传不上去语料库，可以下载中文语料库之后放在data/chinese里。（格式要求： 最后一行无空行，其它格式要求如https://github.com/GeneZC/Chinese-NER中即可）
+
 
 
 #### 流程
